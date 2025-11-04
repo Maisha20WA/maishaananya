@@ -21,7 +21,7 @@ I love building intuitive app interfaces, game environments, and digital experie
 - **Builderlo** – [Live](https://builderlo.com) – AI-based web builder to simplify website creation.  
 - **Meal Chill** – Office food ordering app with order tracking and multi-user management  
 - **Medicle Scribe** – Medical scribe app for recording doctor-patient conversations, prescriptions, and appointments  
-- **Teton Website** – [Live](https://tetonelectronics.com/) – Website for presenting services, products, managing client projects, and sharing news/blogs  
+- **Teton Website** – [Live](https://teton-pfvn.vercel.app/) – Website for presenting services, products, managing client projects, and sharing news/blogs  
 - **Teton Train Game** – [iOS]([https://play.google.com/store/apps/details?id=com.example.tetontrain](https://apps.apple.com/za/app/teton-train/id6444174649)) – Playful train control app for kids.
 ---
 
